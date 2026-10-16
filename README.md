@@ -1,6 +1,9 @@
 # FoodRescue AI — Food Waste Management & Redistribution Agent
 
 A local Streamlit prototype aligned with **SDG 2: Zero Hunger**. It helps record surplus food, store NGO/community-kitchen partners, and rank possible donation matches.
+**🚀 Live Demo:** [Open FoodRescue AI](https://ai-food-redistribution-agent.streamlit.app/)
+
+**🎯 Sustainable Development Goal:** SDG 2 — Zero Hunger
 
 ## Requirements
 - Windows 10/11
